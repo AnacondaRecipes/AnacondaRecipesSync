@@ -1,0 +1,552 @@
+[submodule "graphite2-feedstock"]
+	path = graphite2-feedstock
+	url = ../graphite2-feedstock
+	branch = master
+[submodule "icu-feedstock"]
+	path = icu-feedstock
+	url = ../icu-feedstock
+	branch = master
+[submodule "cymem-feedstock"]
+	path = cymem-feedstock
+	url = ../cymem-feedstock
+	branch = master
+[submodule "ruamel_yaml-feedstock"]
+	path = ruamel_yaml-feedstock
+	url = ../ruamel_yaml-feedstock
+	branch = master
+[submodule "ncurses-feedstock"]
+	path = ncurses-feedstock
+	url = ../ncurses-feedstock
+	branch = master
+[submodule "libedit-feedstock"]
+	path = libedit-feedstock
+	url = ../libedit-feedstock
+	branch = master
+[submodule "libxcb-feedstock"]
+	path = libxcb-feedstock
+	url = ../libxcb-feedstock
+	branch = master
+[submodule "gobject-introspection-feedstock"]
+	path = gobject-introspection-feedstock
+	url = ../gobject-introspection-feedstock
+	branch = master
+[submodule "multidict-feedstock"]
+	path = multidict-feedstock
+	url = ../multidict-feedstock
+	branch = master
+[submodule "yarl-feedstock"]
+	path = yarl-feedstock
+	url = ../yarl-feedstock
+	branch = master
+[submodule "libntlm-feedstock"]
+	path = libntlm-feedstock
+	url = ../libntlm-feedstock
+	branch = master
+[submodule "cyrus-sasl-feedstock"]
+	path = cyrus-sasl-feedstock
+	url = ../cyrus-sasl-feedstock
+	branch = master
+[submodule "gmp-feedstock"]
+	path = gmp-feedstock
+	url = ../gmp-feedstock
+	branch = master
+[submodule "mpfr-feedstock"]
+	path = mpfr-feedstock
+	url = ../mpfr-feedstock
+	branch = master
+[submodule "boost-feedstock"]
+	path = boost-feedstock
+	url = ../boost-feedstock
+	branch = master
+[submodule "libssh2-feedstock"]
+	path = libssh2-feedstock
+	url = ../libssh2-feedstock
+	branch = master
+[submodule "libprotobuf-feedstock"]
+	path = libprotobuf-feedstock
+	url = ../libprotobuf-feedstock
+	branch = master
+[submodule "protobuf-feedstock"]
+	path = protobuf-feedstock
+	url = ../protobuf-feedstock
+	branch = master
+[submodule "typed-ast-feedstock"]
+	path = typed-ast-feedstock
+	url = ../typed-ast-feedstock
+	branch = master
+[submodule "snappy-feedstock"]
+	path = snappy-feedstock
+	url = ../snappy-feedstock
+	branch = master
+[submodule "blosc-feedstock"]
+	path = blosc-feedstock
+	url = ../blosc-feedstock
+	branch = master
+[submodule "neo4j-python-driver-feedstock"]
+	path = neo4j-python-driver-feedstock
+	url = ../neo4j-python-driver-feedstock
+	branch = master
+[submodule "xcb-proto-feedstock"]
+	path = xcb-proto-feedstock
+	url = ../xcb-proto-feedstock
+	branch = master
+[submodule "numpy-feedstock"]
+	path = numpy-feedstock
+	url = ../numpy-feedstock
+	branch = master
+[submodule "bcolz-feedstock"]
+	path = bcolz-feedstock
+	url = ../bcolz-feedstock
+	branch = master
+[submodule "cdecimal-feedstock"]
+	path = cdecimal-feedstock
+	url = ../cdecimal-feedstock
+	branch = master
+[submodule "jsoncpp-feedstock"]
+	path = jsoncpp-feedstock
+	url = ../jsoncpp-feedstock
+	branch = master
+[submodule "pycryptodomex-feedstock"]
+	path = pycryptodomex-feedstock
+	url = ../pycryptodomex-feedstock
+	branch = master
+[submodule "mpc-feedstock"]
+	path = mpc-feedstock
+	url = ../mpc-feedstock
+	branch = master
+[submodule "jbig-feedstock"]
+	path = jbig-feedstock
+	url = ../jbig-feedstock
+	branch = master
+[submodule "rhash-feedstock"]
+	path = rhash-feedstock
+	url = ../rhash-feedstock
+	branch = master
+[submodule "curl-feedstock"]
+	path = curl-feedstock
+	url = ../curl-feedstock
+	branch = master
+[submodule "bzip2-feedstock"]
+	path = bzip2-feedstock
+	url = ../bzip2-feedstock
+	branch = master
+[submodule "cmake-feedstock"]
+	path = cmake-feedstock
+	url = ../cmake-feedstock
+	branch = master
+[submodule "preshed-feedstock"]
+	path = preshed-feedstock
+	url = ../preshed-feedstock
+	branch = master
+[submodule "murmurhash-feedstock"]
+	path = murmurhash-feedstock
+	url = ../murmurhash-feedstock
+	branch = master
+[submodule "msgpack-python-feedstock"]
+	path = msgpack-python-feedstock
+	url = ../msgpack-python-feedstock
+	branch = master
+[submodule "cytoolz-feedstock"]
+	path = cytoolz-feedstock
+	url = ../cytoolz-feedstock
+	branch = master
+[submodule "thinc-feedstock"]
+	path = thinc-feedstock
+	url = ../thinc-feedstock
+	branch = master
+[submodule "swig-feedstock"]
+	path = swig-feedstock
+	url = ../swig-feedstock
+	branch = master
+[submodule "gperf-feedstock"]
+	path = gperf-feedstock
+	url = ../gperf-feedstock
+	branch = master
+[submodule "bottleneck-feedstock"]
+	path = bottleneck-feedstock
+	url = ../bottleneck-feedstock
+	branch = master
+[submodule "libtiff-feedstock"]
+	path = libtiff-feedstock
+	url = ../libtiff-feedstock
+	branch = master
+[submodule "hdf5-feedstock"]
+	path = hdf5-feedstock
+	url = ../hdf5-feedstock
+	branch = master
+[submodule "ffmpeg-feedstock"]
+	path = ffmpeg-feedstock
+	url = ../ffmpeg-feedstock
+	branch = master
+[submodule "opencv-feedstock"]
+	path = opencv-feedstock
+	url = ../opencv-feedstock
+	branch = master
+[submodule "coverage-feedstock"]
+	path = coverage-feedstock
+	url = ../coverage-feedstock
+	branch = master
+[submodule "lzo-feedstock"]
+	path = lzo-feedstock
+	url = ../lzo-feedstock
+	branch = master
+[submodule "lz4-c-feedstock"]
+	path = lz4-c-feedstock
+	url = ../lz4-c-feedstock
+	branch = master
+[submodule "libarchive-feedstock"]
+	path = libarchive-feedstock
+	url = ../libarchive-feedstock
+	branch = master
+[submodule "libgpuarray-feedstock"]
+	path = libgpuarray-feedstock
+	url = ../libgpuarray-feedstock
+	branch = master
+[submodule "pygpu-feedstock"]
+	path = pygpu-feedstock
+	url = ../pygpu-feedstock
+	branch = master
+[submodule "unixodbc-feedstock"]
+	path = unixodbc-feedstock
+	url = ../unixodbc-feedstock
+	branch = master
+[submodule "libglu-feedstock"]
+	path = libglu-feedstock
+	url = ../libglu-feedstock
+	branch = master
+[submodule "wxpython-feedstock"]
+	path = wxpython-feedstock
+	url = ../wxpython-feedstock
+	branch = master
+[submodule "scipy-feedstock"]
+	path = scipy-feedstock
+	url = ../scipy-feedstock
+	branch = master
+[submodule "tbb-feedstock"]
+	path = tbb-feedstock
+	url = ../tbb-feedstock
+	branch = master
+[submodule "vtk-feedstock"]
+	path = vtk-feedstock
+	url = ../vtk-feedstock
+	branch = master
+[submodule "freetds-feedstock"]
+	path = freetds-feedstock
+	url = ../freetds-feedstock
+	branch = master
+[submodule "bitarray-feedstock"]
+	path = bitarray-feedstock
+	url = ../bitarray-feedstock
+	branch = master
+[submodule "spacy-feedstock"]
+	path = spacy-feedstock
+	url = ../spacy-feedstock
+	branch = master
+[submodule "lazy-object-proxy-feedstock"]
+	path = lazy-object-proxy-feedstock
+	url = ../lazy-object-proxy-feedstock
+	branch = master
+[submodule "rapidjson-feedstock"]
+	path = rapidjson-feedstock
+	url = ../rapidjson-feedstock
+	branch = master
+[submodule "libgpg-error-feedstock"]
+	path = libgpg-error-feedstock
+	url = ../libgpg-error-feedstock
+	branch = master
+[submodule "libgcrypt-feedstock"]
+	path = libgcrypt-feedstock
+	url = ../libgcrypt-feedstock
+	branch = master
+[submodule "libgsasl-feedstock"]
+	path = libgsasl-feedstock
+	url = ../libgsasl-feedstock
+	branch = master
+[submodule "python-rapidjson-feedstock"]
+	path = python-rapidjson-feedstock
+	url = ../python-rapidjson-feedstock
+	branch = master
+[submodule "patch-feedstock"]
+	path = patch-feedstock
+	url = ../patch-feedstock
+	branch = master
+[submodule "pthread-stubs-feedstock"]
+	path = pthread-stubs-feedstock
+	url = ../pthread-stubs-feedstock
+	branch = master
+[submodule "gflags-feedstock"]
+	path = gflags-feedstock
+	url = ../gflags-feedstock
+	branch = master
+[submodule "glog-feedstock"]
+	path = glog-feedstock
+	url = ../glog-feedstock
+	branch = master
+[submodule "zeromq-feedstock"]
+	path = zeromq-feedstock
+	url = ../zeromq-feedstock
+	branch = master
+[submodule "pyzmq-feedstock"]
+	path = pyzmq-feedstock
+	url = ../pyzmq-feedstock
+	branch = master
+[submodule "uvloop-feedstock"]
+	path = uvloop-feedstock
+	url = ../uvloop-feedstock
+	branch = master
+[submodule "sasl-feedstock"]
+	path = sasl-feedstock
+	url = ../sasl-feedstock
+	branch = master
+[submodule "thrift_sasl-feedstock"]
+	path = thrift_sasl-feedstock
+	url = ../thrift_sasl-feedstock
+	branch = master
+[submodule "jemalloc-feedstock"]
+	path = jemalloc-feedstock
+	url = ../jemalloc-feedstock
+	branch = master
+[submodule "mysql-feedstock"]
+	path = mysql-feedstock
+	url = ../mysql-feedstock
+	branch = master
+[submodule "orange3-feedstock"]
+	path = orange3-feedstock
+	url = ../orange3-feedstock
+	branch = master
+[submodule "kealib-feedstock"]
+	path = kealib-feedstock
+	url = ../kealib-feedstock
+	branch = master
+[submodule "asyncpg-feedstock"]
+	path = asyncpg-feedstock
+	url = ../asyncpg-feedstock
+	branch = master
+[submodule "poppler-feedstock"]
+	path = poppler-feedstock
+	url = ../poppler-feedstock
+	branch = master
+[submodule "line_profiler-feedstock"]
+	path = line_profiler-feedstock
+	url = ../line_profiler-feedstock
+	branch = master
+[submodule "boost-cpp-feedstock"]
+	path = boost-cpp-feedstock
+	url = ../boost-cpp-feedstock
+	branch = master
+[submodule "cryptography-feedstock"]
+	path = cryptography-feedstock
+	url = ../cryptography-feedstock
+	branch = master
+[submodule "fastcache-feedstock"]
+	path = fastcache-feedstock
+	url = ../fastcache-feedstock
+	branch = master
+[submodule "python-snappy-feedstock"]
+	path = python-snappy-feedstock
+	url = ../python-snappy-feedstock
+	branch = master
+[submodule "dask-ml-feedstock"]
+	path = dask-ml-feedstock
+	url = ../dask-ml-feedstock
+	branch = master
+[submodule "pycosat-feedstock"]
+	path = pycosat-feedstock
+	url = ../pycosat-feedstock
+	branch = master
+[submodule "backports.lzma-feedstock"]
+	path = backports.lzma-feedstock
+	url = ../backports.lzma-feedstock
+	branch = master
+[submodule "pygraphviz-feedstock"]
+	path = pygraphviz-feedstock
+	url = ../pygraphviz-feedstock
+	branch = master
+[submodule "pyemd-feedstock"]
+	path = pyemd-feedstock
+	url = ../pyemd-feedstock
+	branch = master
+[submodule "gmpy2-feedstock"]
+	path = gmpy2-feedstock
+	url = ../gmpy2-feedstock
+	branch = master
+[submodule "xerces-c-feedstock"]
+	path = xerces-c-feedstock
+	url = ../xerces-c-feedstock
+	branch = master
+[submodule "libevent-feedstock"]
+	path = libevent-feedstock
+	url = ../libevent-feedstock
+	branch = master
+[submodule "openblas-feedstock"]
+	path = openblas-feedstock
+	url = ../openblas-feedstock
+	branch = master
+[submodule "pycairo-feedstock"]
+	path = pycairo-feedstock
+	url = ../pycairo-feedstock
+	branch = master
+[submodule "cython-feedstock"]
+	path = cython-feedstock
+	url = ../cython-feedstock
+	branch = master
+[submodule "mpir-feedstock"]
+	path = mpir-feedstock
+	url = ../mpir-feedstock
+	branch = master
+[submodule "nodejs-feedstock"]
+	path = nodejs-feedstock
+	url = ../nodejs-feedstock
+	branch = master
+[submodule "sqlite-feedstock"]
+	path = sqlite-feedstock
+	url = ../sqlite-feedstock
+	branch = master
+[submodule "trollius-feedstock"]
+	path = trollius-feedstock
+	url = ../trollius-feedstock
+	branch = master
+[submodule "zlib-feedstock"]
+	path = zlib-feedstock
+	url = ../zlib-feedstock
+	branch = master
+[submodule "xz-feedstock"]
+	path = xz-feedstock
+	url = ../xz-feedstock
+	branch = master
+[submodule "jpeg-feedstock"]
+	path = jpeg-feedstock
+	url = ../jpeg-feedstock
+	branch = master
+[submodule "libpng-feedstock"]
+	path = libpng-feedstock
+	url = ../libpng-feedstock
+	branch = master
+[submodule "openjpeg-feedstock"]
+	path = openjpeg-feedstock
+	url = ../openjpeg-feedstock
+	branch = master
+[submodule "tk-feedstock"]
+	path = tk-feedstock
+	url = ../tk-feedstock
+	branch = master
+[submodule "readline-feedstock"]
+	path = readline-feedstock
+	url = ../readline-feedstock
+	branch = master
+[submodule "openssl-feedstock"]
+	path = openssl-feedstock
+	url = ../openssl-feedstock
+	branch = master
+[submodule "libffi-feedstock"]
+	path = libffi-feedstock
+	url = ../libffi-feedstock
+	branch = master
+[submodule "python-feedstock"]
+	path = python-feedstock
+	url = ../python-feedstock
+	branch = master
+[submodule "pixman-feedstock"]
+	path = pixman-feedstock
+	url = ../pixman-feedstock
+	branch = master
+[submodule "glib-feedstock"]
+	path = glib-feedstock
+	url = ../glib-feedstock
+	branch = master
+[submodule "freetype-feedstock"]
+	path = freetype-feedstock
+	url = ../freetype-feedstock
+	branch = master
+[submodule "libxml2-feedstock"]
+	path = libxml2-feedstock
+	url = ../libxml2-feedstock
+	branch = master
+[submodule "fontconfig-feedstock"]
+	path = fontconfig-feedstock
+	url = ../fontconfig-feedstock
+	branch = master
+[submodule "cairo-feedstock"]
+	path = cairo-feedstock
+	url = ../cairo-feedstock
+	branch = master
+[submodule "hdf4-feedstock"]
+	path = hdf4-feedstock
+	url = ../hdf4-feedstock
+	branch = master
+[submodule "libnetcdf-feedstock"]
+	path = libnetcdf-feedstock
+	url = ../libnetcdf-feedstock
+	branch = master
+[submodule "expat-feedstock"]
+	path = expat-feedstock
+	url = ../expat-feedstock
+	branch = master
+[submodule "libkml-feedstock"]
+	path = libkml-feedstock
+	url = ../libkml-feedstock
+	branch = master
+[submodule "libdap4-feedstock"]
+	path = libdap4-feedstock
+	url = ../libdap4-feedstock
+	branch = master
+[submodule "giflib-feedstock"]
+	path = giflib-feedstock
+	url = ../giflib-feedstock
+	branch = master
+[submodule "geos-feedstock"]
+	path = geos-feedstock
+	url = ../geos-feedstock
+	branch = master
+[submodule "libgdal-feedstock"]
+	path = libgdal-feedstock
+	url = ../libgdal-feedstock
+	branch = master
+[submodule "libiconv-feedstock"]
+	path = libiconv-feedstock
+	url = ../libiconv-feedstock
+	branch = master
+[submodule "gsl-feedstock"]
+	path = gsl-feedstock
+	url = ../gsl-feedstock
+	branch = master
+[submodule "krb5-feedstock"]
+	path = krb5-feedstock
+	url = ../krb5-feedstock
+	branch = master
+[submodule "dbus-feedstock"]
+	path = dbus-feedstock
+	url = ../dbus-feedstock
+	branch = master
+[submodule "gstreamer-feedstock"]
+	path = gstreamer-feedstock
+	url = ../gstreamer-feedstock
+	branch = master
+[submodule "qt-feedstock"]
+	path = qt-feedstock
+	url = ../qt-feedstock
+	branch = master
+[submodule "harfbuzz-feedstock"]
+	path = harfbuzz-feedstock
+	url = ../harfbuzz-feedstock
+	branch = master
+[submodule "perl-feedstock"]
+	path = perl-feedstock
+	url = ../perl-feedstock
+	branch = master
+[submodule "pango-feedstock"]
+	path = pango-feedstock
+	url = ../pango-feedstock
+	branch = master
+[submodule "pyqt-feedstock"]
+	path = pyqt-feedstock
+	url = ../pyqt-feedstock
+	branch = master
+[submodule "gdal-feedstock"]
+	path = gdal-feedstock
+	url = ../gdal-feedstock
+	branch = master
+[submodule "proj.4-feedstock"]
+	path = proj.4-feedstock
+	url = ../proj.4-feedstock
+	branch = master
