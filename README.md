@@ -9,3 +9,5 @@ This is intended to be a temporary aggregation of recipes to facilitate the merg
 4. push to branch
 
 In theory, the branch in step 4 should be mergeable with conda-forge with no conflicts.  These recipes are being tested, but may not work right off the bat in their current state, if there were mistakes made in resolving merge conflicts.
+
+The next step is to test building each of these recipes. If they pass, they can be merged into AnacondaRecipes master branch.  That branch should then replace or create a cf-sync branch in the AnacondaRecipes repo.  A PR should then be issued from that cf-sync branch to the parent conda-forge feedstock.
