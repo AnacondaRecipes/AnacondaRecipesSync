@@ -330,10 +330,6 @@
 	path = line_profiler-feedstock
 	url = ../line_profiler-feedstock
 	branch = master
-[submodule "boost-cpp-feedstock"]
-	path = boost-cpp-feedstock
-	url = ../boost-cpp-feedstock
-	branch = master
 [submodule "cryptography-feedstock"]
 	path = cryptography-feedstock
 	url = ../cryptography-feedstock
@@ -498,10 +494,6 @@
 	path = geos-feedstock
 	url = ../geos-feedstock
 	branch = master
-[submodule "libgdal-feedstock"]
-	path = libgdal-feedstock
-	url = ../libgdal-feedstock
-	branch = master
 [submodule "libiconv-feedstock"]
 	path = libiconv-feedstock
 	url = ../libiconv-feedstock
@@ -549,4 +541,16 @@
 [submodule "proj.4-feedstock"]
 	path = proj.4-feedstock
 	url = ../proj.4-feedstock
+	branch = master
+[submodule "gnutls-feedstock"]
+	path = gnutls-feedstock
+	url = ../gnutls-feedstock
+	branch = master
+[submodule "nettle-feedstock"]
+	path = nettle-feedstock
+	url = ../nettle-feedstock
+	branch = master
+[submodule "libidn11-feedstock"]
+	path = libidn11-feedstock
+	url = ../libidn11-feedstock
 	branch = master
